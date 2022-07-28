@@ -1,0 +1,11 @@
+
+
+.course-image{
+    width: 320px;
+}
+
+.slide-paragrap{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
